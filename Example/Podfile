@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iBeaconManager_Example' do
+  pod 'iBeaconManager', :path => '../'
+
+  target 'iBeaconManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
