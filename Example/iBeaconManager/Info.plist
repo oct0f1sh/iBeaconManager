@@ -4,6 +4,10 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Location usage is required to test beacon functionality.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Location usage is required to test beacon functionality.</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>

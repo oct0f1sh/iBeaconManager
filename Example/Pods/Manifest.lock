@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  iBeaconManager: 157ba6c535e45bcfa446fd2773069c62fe7506db
+  iBeaconManager: 14c4cd0817db6b2d697bd1a33ea6ae8a672a5cbe
 
 PODFILE CHECKSUM: db98f7cdf940ab272be89a4aa8dc6f501d3962fd
 

@@ -22,7 +22,7 @@ pod 'iBeaconManager'
 
 ## Author
 
-oct0f1sh, buzzbuzz.macdonald@gmail.com
+oct0f1sh, duncan@duncanmacdonald.us
 
 ## License
 
