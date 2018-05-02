@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'iBeaconManager'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of iBeaconManager.'
+  s.summary          = 'A super simple way to integrate iBeacons in your swift project.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+iBeaconManager provides an extra layer of abstraction that allows you to easily integrate and use iBeacons or Bluetooth Low Energy beacons in your Swift project.
                        DESC
 
   s.homepage         = 'https://github.com/oct0f1sh/iBeaconManager'
