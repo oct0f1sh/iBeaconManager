@@ -1,6 +1,5 @@
 # iBeaconManager
 
-[![CI Status](https://img.shields.io/travis/oct0f1sh/iBeaconManager.svg?style=flat)](https://travis-ci.org/oct0f1sh/iBeaconManager)
 [![Version](https://img.shields.io/cocoapods/v/iBeaconManager.svg?style=flat)](https://cocoapods.org/pods/iBeaconManager)
 [![License](https://img.shields.io/cocoapods/l/iBeaconManager.svg?style=flat)](https://cocoapods.org/pods/iBeaconManager)
 [![Platform](https://img.shields.io/cocoapods/p/iBeaconManager.svg?style=flat)](https://cocoapods.org/pods/iBeaconManager)
